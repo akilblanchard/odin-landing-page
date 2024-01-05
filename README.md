@@ -13,7 +13,8 @@ The project states that there is room for customization and adding your own touc
 
 
 ## Project Preview
- <img width="1493" alt="Screenshot 2024-01-05 at 3 53 45 AM" src="https://github.com/akilblanchard/odin-landing-page/assets/108893749/15fbe9dc-aae0-44f9-9425-34a9fb597c7b">
+<img width="1489" alt="Screenshot 2024-01-05 at 4 24 13 AM" src="https://github.com/akilblanchard/odin-landing-page/assets/108893749/1ef903c9-d64b-4e83-a061-04c28654625a">
+
 
 
 
